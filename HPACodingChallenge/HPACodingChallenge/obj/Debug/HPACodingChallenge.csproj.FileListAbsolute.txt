@@ -1,0 +1,8 @@
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\bin\Debug\HPACodingChallenge.exe.config
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\bin\Debug\HPACodingChallenge.exe
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\bin\Debug\HPACodingChallenge.pdb
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\obj\Debug\HPACodingChallenge.csproj.AssemblyReference.cache
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\obj\Debug\HPACodingChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\obj\Debug\HPACodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\obj\Debug\HPACodingChallenge.exe
+C:\Users\tredd\Git\HPA\HPACodingChallenge\HPACodingChallenge\obj\Debug\HPACodingChallenge.pdb
